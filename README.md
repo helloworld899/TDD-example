@@ -1,7 +1,8 @@
 # TDD-example
 
 
-Steps on how to on how to create TDD tests using Maven Junit
+Steps on how to on how to create TDD tests using Maven Junit  
+
 
 1. Start a new project using IntelliJ. 
 I clicked on File > New > Module 

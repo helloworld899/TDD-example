@@ -5,7 +5,8 @@ Steps on how to on how to create TDD tests using Maven Junit
 
 
 1. Start a new project using IntelliJ. 
-I clicked on File > New > Module 
+I clicked on File > New > Module  
+
 Make sure Java is chosen as a language and Maven is chosen as for build system. Click Create. 
 
 2. In the pom.xml file, right click somewhere between  </properties> </project>.
